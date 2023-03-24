@@ -1,8 +1,8 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-image: url(../images/star.jpg);
-    background-size: 100%;
+    background-image: url(../images/background.jpg);
+    background-size: 95%;
 }
 
 .sun{
@@ -142,7 +142,7 @@ p{
     background-size: 100%;
     border-radius: 50%;
     position: absolute;
-    box-shadow: -4px 2px 56px #fea535;
+    box-shadow: -4px 2px 56px #e57053;
     left: 46.5%;
     top: 46.5%;
     transform: translate(-50%, -50%);
@@ -166,7 +166,7 @@ p{
     background-size: 100%;
     border-radius: 50%;
     position: absolute;
-    box-shadow: -4px 2px 56px #cac2b9;
+    box-shadow: -4px 2px 56px #80664a;
     left: 45%;
     top: 45%;
     transform: translate(-50%, -50%);
@@ -186,8 +186,8 @@ p{
 .saturn{
     height: 50px;
     width: 50px;
-    background-image: url(../images/saturn.jpg);
-    background-size: 100%;
+    background-image: url(../images/saturn.png);
+    background-size: 91%;
     border-radius: 50%;
     position: absolute;
     left: 45%;
@@ -213,7 +213,7 @@ p{
     background-size: 100%;
     border-radius: 50%;
     position: absolute;
-    box-shadow: -4px 2px 56px #cac2b9;
+    box-shadow: -4px 2px 56px #617994;
     left: 48%;
     top: 48%;
     transform: translate(-50%, -50%);
@@ -237,7 +237,7 @@ p{
     background-size: 100%;
     border-radius: 50%;
     position: absolute;
-    box-shadow: -4px 2px 56px #cac2b9;
+    box-shadow: -4px 2px 56px #335fc4;
     left: 48%;
     top: 48%;
     transform: translate(-50%, -50%);
